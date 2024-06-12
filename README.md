@@ -58,13 +58,13 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Codeflix-Bots/FileStore">
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/animelegendpro/Kitagawa-File-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ 」─
 </h3>
-<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/erotixe/FileShareBot2&branch=main&name=main">
+<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/github.com/animelegendpro/Kitagawa-File-Bot&branch=main&name=main">
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy On Koyeb">
 </a></p>
 <h3 align="center">
